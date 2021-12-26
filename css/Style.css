@@ -1,0 +1,17 @@
+﻿*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;/*css3*/
+}
+body
+{
+    font-family:"PT Sans",sans-serif;
+}
+.container{
+    width:80%;
+    margin:auto;
+ 
+
+}
+/*   display:flex;
+    justify-content:space-between;*/
